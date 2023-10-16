@@ -1,4 +1,4 @@
-# Pandas Tutorial
+# Pandas Tutorial (This repo is not completed and will be continuously updated during this month )
 
 A comprehensive tutorial on using Pandas for data manipulation and analysis.
 
