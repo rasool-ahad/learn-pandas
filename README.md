@@ -19,11 +19,8 @@ pip install pandas
 
 ## Table of Contents
 
-1. [Introduction](01_Introduction.ipynb)
-2. [Data Cleaning](02_Data_Cleaning.ipynb)
-3. [Data Manipulation](03_Data_Manipulation.ipynb)
-4. [Data Visualization](04_Data_Visualization.ipynb)
-
+1. [Introduction](01 Introduction.ipynb)
+2. ...
 
 
 ## Contributing
