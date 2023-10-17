@@ -20,7 +20,7 @@ pip install pandas
 ## Table of Contents
 
 1. [Introduction](01-Introduction.ipynb)
-2. [Series](02-Series.ipynb)
+2. [Series](02-create_Series.ipynb)
 3. [create DataFrame](03-create_DataFrame.ipynb)
 
 ## Contributing
